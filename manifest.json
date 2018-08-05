@@ -1,7 +1,7 @@
 {
 	"name": "Gmail Mono",
 	"version": "0.0.0.1",
-	"description": "Changes display of plain-text mails and compose window to a monospace font.",
+	"description": "Changes display of plain-text mails and compose window to a monospace font. Compose window breaks line after 72 characters between words.",
 	"content_scripts": [
 		{
 			"css": [
