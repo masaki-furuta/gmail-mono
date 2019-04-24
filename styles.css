@@ -1,9 +1,11 @@
 .a3s {
 	font-family: monospace !important;
+	font-size: large !important;
 }
 
 .editable {
 	font-family: monospace !important;
 	max-width: 78ch;
 	word-wrap: break-word;
+	font-size: large !important;
 }
