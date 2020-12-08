@@ -1,15 +1,18 @@
 .a3s {
-	font-family: monospace !important;
+	font-family: 'SF Mono', SFMono-Regular, ui-monospace,
+    'DejaVu Sans Mono', Menlo, Consolas, monospace !important;
 }
 
 .editable {
-	font-family: monospace !important;
+	font-family: 'SF Mono', SFMono-Regular, ui-monospace,
+    'DejaVu Sans Mono', Menlo, Consolas, monospace !important;
 	max-width: 78ch;
 	word-wrap: break-word;
 }
 
 .hP {
-	font-family: monospace !important;
+	font-family: 'SF Mono', SFMono-Regular, ui-monospace,
+    'DejaVu Sans Mono', Menlo, Consolas, ,monospace !important;
 	font-weight: bold;
 	text-decoration: underline;
 }
