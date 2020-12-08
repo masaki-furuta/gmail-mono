@@ -1,6 +1,6 @@
 {
 	"name": "Gmail Mono",
-	"version": "0.0.0.2",
+	"version": "0.0.0.3",
 	"description": "Changes display of plain-text mails and compose window to a monospace font.",
 	"content_scripts": [
 		{
